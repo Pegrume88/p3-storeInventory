@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "storeinventory-360512",
+  "private_key_id": "6955f515c86826931f568c566222234bf1bf510c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1JG7xv9a5XzlQ\n3I+InttpJgx/b9B63Wf8I736YekwBkXiRWGSTu5gq19OjDIcDz9MSgVQno+QdjTs\npm7alhmTH/j3znOG71IEDDTK+KVxGAHd72QjRta7ts9bNoHcs5ldAkaolhKOWWV8\n+i8SoEntw3tHHARI7bU1ME11lXKxxMSkCcPUmEAbysjF/jbhX7t+17zgz+CbOOsz\nEjONXjzWhZbcgalajc0ywejdeelnfypAu9/E2C6X3WC4vd8yeiVeLl5qj0NNbE57\n5oN/Cnm0nzeJtEWhNu3Qx0mGXpYXNWt3api0e5WYcTrg09xpnuF89CJCeK47Pbg8\nhGzjn3XlAgMBAAECggEAJo8LWMWT0SDehAJ3QUdDgFX7mhL0p3rC3E7FbWtzJmhn\nbtuDAhBwOL6yCnfYYNW0DSrCh99AwykOagOhnEEQT5uiNSnKuMHvzPHGOSCFoxXP\nq+z9/W5iXlHzQMDREuheMIi//rn3WDraWiitZYMeSZDviHsDxHxpMtnF205FPGbB\nHMpSqZQYKMf36d5TciGYxW6ez2F3D1UOgiHqOLvNN5cBgotiTTfdkHfZkIyhm9mO\naIS9YpbaLQGEafrjHu3fbsepijKiEDPGGeVRWZ6TMegfeJqrpyLPOdTKpWW2LMLJ\neBazSJpDTsnDFLkn9VSnA8GUhAbxLrPdQZteEfJnfwKBgQDbjky4novJh3aLJtEj\n6IhoyISmIO/WKM72lqOoCUsUyQLCuLQ34M7zP9B/ZgognpKbgrwMSbPvUIYhBe0c\n3PHd5ieZbVfoGOx55iSvemd12uOvyjuWWGzv5VBbYMrtGvPsnt7EZU3ad5pMq9KQ\nFz7TBJwg/Ylv4nT8S435VGYrZwKBgQDTNc6rn+rxBFIGoMcAmD4nBzA+7ZmMTwNx\nXTclr4wGCGMbmvbMlZualmJZob/hu5uP/3GqcWusCT0lhXvlGkmdSrLftc09OSUg\nhELm2yzLc0Z7tK29oP3q3C/4CyCEmL3C8n2n5TGkK7YFZwibhfA4vgv5M8Sxn2Me\nVBl6vOrQ0wKBgC/yW37V4OEZ3CF3UKTu2xtG7vD4sGesccYYD5VasjLP0vKDM5gg\nWBF3Fik8N2n4NzwOyNJGJi1VAHWlvapX9dnnsS4oWtIs3zefstM/f+iU7LQvDeQ/\nW0roYSwTbz1obWx3JV7uYJodFG05+LnO2cFreE0cES+F3NZcCZ0xeT5xAoGBAJLX\nigSQfktq8YxiI3kqX6vKt6RIlMST+pTKdhjhX7yiACWlK4k5SqHDhEVEy58pTBJl\nSqVxjaZiFf0MPQMfr6aH1KzsPPEf1cwxqEHQh+g7EPnYuCJq1559z2vocIc/mk77\nQJmGI2k8aqR+6eEW0djhaHmtoEbNxZ/EYKKQzcC5AoGAGdxG9nfyqXEVRTfMZJNJ\nkzQnJEoCkS/5HB8XIhuF+gjR7hPLlN06fR8knSsxYHwHFZG8RczhCL74BcTqTnke\nGr0phwy+FEEiYsZyexxy9Wogp00hDClISVzH/OFFCgINPeOYVFtMBTrEh8Dy9RiM\nsaRRt9spU+OB9bxvEkssITo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "storeinventory@storeinventory-360512.iam.gserviceaccount.com",
+  "client_id": "101733830194768918822",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storeinventory%40storeinventory-360512.iam.gserviceaccount.com"
+}
